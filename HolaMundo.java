@@ -3,4 +3,5 @@ public class HolaMundo{
 	Scanner teclado = new Scanner(System.in);	
 		System.out.println("Hola mundo");
 }
+
 }
